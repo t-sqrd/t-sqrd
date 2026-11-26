@@ -1,24 +1,14 @@
-# T² 👋
+# t-sqrd
 
-```
-  ████████╗ ²
-  ╚══██╔══╝
-     ██║      t × t = t-sqrd
-     ██║      (the math checks out)
-     ╚═╝
-```
+t × t. I checked the math.
 
-### Hi, I'm Tyson.
+Most of what I write lives in private repos, so this page is a lot quieter than my commit history.
 
-I write code, break code, and occasionally fix code I broke.
+What you can actually see:
 
-```js
-const me = {
-  fuel: ["coffee", "more coffee"],
-  superpower: "turning bugs into features",
-  weakness: "just one more refactor",
-  status: Math.random() > 0.5 ? "shipping" : "debugging",
-};
-```
+- [Prison of Raeun](https://github.com/t-sqrd/prison-of-raeun): a RuneLite plugin that counts clicks on an Old School RuneScape agility course so I don't have to.
+- [CS351-Project3](https://github.com/t-sqrd/CS351-Project3): a 2D train simulator where the tracks are smarter than the trains.
+- [CS351-Project4](https://github.com/t-sqrd/CS351-Project4): a multithreaded auction house that has never sold anything.
+- [Post-Prefix-Evaluator](https://github.com/t-sqrd/Post-Prefix-Evaluator): does what it says.
 
-> *"It works on my machine."* — me, probably right now
+The Haskell stays private for everyone's sake.
