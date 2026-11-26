@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 200" width="440" height="200" role="img" aria-label="A square drawn on graph paper, each side labelled t, with t squared written inside. A note beside it reads: 36 squares. I counted.">
+  <defs>
+    <pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#cfe5d6" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="440" height="200" fill="url(#g)"/>
+  <g fill="none" stroke="#1f2328" stroke-width="2" stroke-linecap="square">
+    <rect x="60.5" y="40.5" width="120" height="120"/>
+    <g stroke-width="1">
+      <path d="M60.5 172v8M180.5 172v8M60.5 176h48M132.500 176h48"/>
+      <path d="M40 40.500h8M40 160.500h8M44 40.500v48M44 112.500v48"/>
+      <path d="M188 100.500h30" stroke="#2c6e49"/>
+    </g>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" fill="#1f2328" text-anchor="middle">
+    <text x="120.500" y="112" font-size="34">t²</text>
+    <text x="120.500" y="181" font-size="14">t</text>
+    <text x="44" y="105" font-size="14">t</text>
+    <text x="228" y="105" font-size="14" text-anchor="start" fill="#2c6e49">36 squares. I counted.</text>
+  </g>
+</svg>
